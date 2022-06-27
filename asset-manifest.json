@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzapro/static/css/main.94d3fdc3.css",
+    "main.js": "/pizzapro/static/js/main.44ce2516.js",
+    "static/js/787.ec704a7a.chunk.js": "/pizzapro/static/js/787.ec704a7a.chunk.js",
+    "index.html": "/pizzapro/index.html",
+    "main.94d3fdc3.css.map": "/pizzapro/static/css/main.94d3fdc3.css.map",
+    "main.44ce2516.js.map": "/pizzapro/static/js/main.44ce2516.js.map",
+    "787.ec704a7a.chunk.js.map": "/pizzapro/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94d3fdc3.css",
+    "static/js/main.44ce2516.js"
+  ]
+}
